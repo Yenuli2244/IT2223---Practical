@@ -2,12 +2,13 @@
 ## 💡 1. Variables and Arithmetic
 <pre>a = 5
 b = 3 </pre>
+![Screenshot (92)](https://github.com/user-attachments/assets/f942c9d5-63dd-4b9b-a1da-905b2976a608)
+
 These lines assign values to variables. Then, you perform operations:
 <pre>a + b    % Adds a and b → 8
 a * b    % Multiplies a and b → 15
 a / b    % Divides a by b → 1.6667
 a - b    % Subtracts b from a → 2 </pre>
-![Screenshot (92)](https://github.com/user-attachments/assets/f942c9d5-63dd-4b9b-a1da-905b2976a608)
 ![Screenshot (93)](https://github.com/user-attachments/assets/900d2b84-1242-4566-ba7f-66074e4857f5)
 ![Screenshot (94)](https://github.com/user-attachments/assets/8c388d99-d596-459e-93dd-5315380e73f7)
 ![Screenshot (95)](https://github.com/user-attachments/assets/aca6d061-bec1-4e2d-b481-4f94ef6650b5)
