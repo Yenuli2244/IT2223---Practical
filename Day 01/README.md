@@ -2,6 +2,12 @@
 ## 💡 1. Variables and Arithmetic
 <pre>a = 5
 b = 3 </pre>
+These lines assign values to variables. Then, you perform operations:
+<pre>a + b    % Adds a and b → 8
+a * b    % Multiplies a and b → 15
+a / b    % Divides a by b → 1.6667
+a - b    % Subtracts b from a → 2 </pre>
+
 
 
 
