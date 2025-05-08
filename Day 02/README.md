@@ -29,7 +29,7 @@
 
 ![Screenshot (114)](https://github.com/user-attachments/assets/9cb3c82f-99c9-462f-8aa6-d5e4e2161334)
 
-## 🎯 how to take user input and display it.
+## 🎯 How to take user input and display it.
 - ```input(...)``` prompts the user to enter a number.
 - ```num2str(x)``` converts the numeric input to a string for display.
 - Adding ```'s'``` tells MATLAB to accept a string input.
@@ -55,7 +55,7 @@
 ![Screenshot (115)](https://github.com/user-attachments/assets/45dba88e-62c8-43ce-8462-faeb007d6e53)
 ![Screenshot (116)](https://github.com/user-attachments/assets/e9ddd410-2e39-4fb8-9994-34dd0341b2fe)
 
-## 🎯 sum of numbers from 1 to 10 using a for loop. --> ForLoop1.m
+## 🎯 Sum of numbers from 1 to 10 using a for loop. --> ForLoop1.m
 ```sum = 0;```                   % Initialize sum to 0
 ```for i = 1:10```               % Loop from 1 to 10
     ```sum = sum + i;```         % Add current value of i to sum
@@ -63,7 +63,7 @@
 ```disp("The sum is: " + sum)``` % Display the final sum
 ![Screenshot (119)](https://github.com/user-attachments/assets/aa31b9fb-6d3c-47f5-af18-cde4c7e628a6)
 
-## 🎯 factorial of 5 using a for loop. --> ForLoop2.m
+## 🎯 Factorial of 5 using a for loop. --> ForLoop2.m
 ```fact = 1;```                         % Start with 1 (neutral for multiplication)
 ```for j = 1:5```                       % Loop from 1 to 5
     ```fact = fact * j;```              % Multiply current fact with j
@@ -78,7 +78,7 @@
 - Iteration 5: ```fact = 24 × 5 = 120```
 ![Screenshot (120)](https://github.com/user-attachments/assets/2cee14a9-e3d0-45aa-bf29-e2180346b52c)
 
-## 🎯 while loop to print numbers from 1 to 10.
+## 🎯 While loop to print numbers from 1 to 10. -->whileloop.m
 ```number = 0;```               % Start from 0
 ```while (number < 10)```       % Keep looping while number is less than 10
     ```number = number + 1;```  % Increment the number
