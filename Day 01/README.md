@@ -12,7 +12,8 @@ You can also store these results in new variables:
 
 ## 💡 2. Vectors and Matrices
 - **Row vector:**
-
+<pre>A = [1 2 3];
+</pre>
 
 ## 01) Check whether the given number is negetive or positive. ---> first.m
 
