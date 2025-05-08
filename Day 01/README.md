@@ -1,4 +1,8 @@
 # 🛠 Command Line Statements in MATLAB ----> first.txt
+## 💡 1. Variables and Arithmetic
+```a = 5;```
+```b = 3;```
+
 
 
 ## 01) Check whether the given number is negetive or positive. ---> first.m
