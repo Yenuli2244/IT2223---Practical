@@ -1,7 +1,7 @@
 # 🛠 Command Line Statements in MATLAB ----> first.txt
 ## 💡 1. Variables and Arithmetic
-<pre> ```matlab a = 5
-b = 3``` </pre>
+<pre>  a = 5
+b = 3 </pre>
 
 
 
