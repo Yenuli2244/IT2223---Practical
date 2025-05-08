@@ -57,31 +57,45 @@ f = a - b;</pre>
 
 ## 💡 5. Matrix Indexing
 We can extract parts of a matrix:
+- ```C(2)``` → Linear indexing
+- ```C(2, 1)``` → Element at row 2, column 1
 - ```C(1,:)``` → all elements in row 1
 - ```C(:,2)``` → all elements in column 2
 - ```C(2,1)``` → element at row 2, column 1
 - ```C(end,2)``` → last row, second column
+![Screenshot (106)](https://github.com/user-attachments/assets/53b76ee4-3efa-4b9b-abd6-9af45b833245)
+![Screenshot (107)](https://github.com/user-attachments/assets/275edf8b-5a8b-4df2-b1f4-73abfc328150)
+![Screenshot (108)1](https://github.com/user-attachments/assets/72e4c77d-bd76-41bc-9c45-6bdd4c30fce8)
 
 ## 💡 6. Matrix Arithmetic
-<pre>A + B   % Adds each element of A and B
-A - B   % Subtracts B from A
-A .* B  % Element-wise multiplication</pre>
-Note: ```A * B``` is matrix multiplication, not element-wise—it requires matching inner dimensions.
+<pre>A = [1 2 3 4; 5 6 7 8; 1 2 5 6];
+B = [2 4 6 7; 8 1 3 8; 5 7 3 5];
 
-We can also do scalar operations:
-<pre>A + 5   % Adds 5 to every element
-A / 2   % Divides every element by 2</pre>
+A + B;         % Matrix addition
+A - B;         % Matrix subtraction
+A * B;         % Matrix multiplication (not shown completely; might error due to size mismatch)
+A + 5; A - 2; A * 2; A / 2;   % Scalar operations
+A .* B;        % Element-wise multiplication (requires same size matrices)
+</pre>
+Note: ```A * B``` is matrix multiplication, not element-wise—it requires matching inner dimensions.
+![Screenshot (108)](https://github.com/user-attachments/assets/0b8dd519-4d9a-4bdc-ab2f-dd0fc23ca740)
+![Screenshot (109)](https://github.com/user-attachments/assets/e799b611-2763-478c-a947-d41eaad23154)
+![Screenshot (110)](https://github.com/user-attachments/assets/d2d73e11-2aeb-4711-8d52-96709a76cf97)
+![Screenshot (111)](https://github.com/user-attachments/assets/f4973159-143b-4406-8ea8-a62faf0c720a)
+![Screenshot (112)1](https://github.com/user-attachments/assets/a50ba150-ca3c-46d5-a98e-a9062860384f)
 
 ## 💡 7. Special Matrices
 <pre>zeros(2, 3)   % 2x3 matrix filled with 0
 ones(4, 3)    % 4x3 matrix filled with 1</pre>
+![Screenshot (112)](https://github.com/user-attachments/assets/2b00e81c-801b-44bb-bb94-73823a19454a)
+![Screenshot (113)](https://github.com/user-attachments/assets/666c9fd8-cf7f-4ab1-97d8-055a115cdd91)
 
 ## 💡 8. Matrix Concatenation
 Joining matrices:
 - Horizontal (side-by-side): ```[A B]``` — same number of rows needed
 - Vertical (stacked): ```[A; B]``` — same number of columns needed
-
 If sizes don’t match, you’ll get an error.
+![Screenshot (245)](https://github.com/user-attachments/assets/6e04b04c-8def-4836-bae3-321422bc9c0e)
 
 
 ## 01) Check whether the given number is negetive or positive. ---> first.m
