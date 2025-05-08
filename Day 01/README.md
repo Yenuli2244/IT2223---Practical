@@ -7,8 +7,11 @@ These lines assign values to variables. Then, you perform operations:
 a * b    % Multiplies a and b → 15
 a / b    % Divides a by b → 1.6667
 a - b    % Subtracts b from a → 2 </pre>
+You can also store these results in new variables:
+<pre>c = a + b;    % c is 8</pre>
 
-
+## 💡 2. Vectors and Matrices
+- **Row vector:**
 
 
 ## 01) Check whether the given number is negetive or positive. ---> first.m
