@@ -60,7 +60,7 @@
 
 ```for i = 1:10```               % Loop from 1 to 10
 
-    ```sum = sum + i;```         % Add current value of i to sum
+```sum = sum + i;```             % Add current value of i to sum
     
 ```end```
 
@@ -70,9 +70,13 @@
 
 ## 🎯 Factorial of 5 using a for loop. --> ForLoop2.m
 ```fact = 1;```                         % Start with 1 (neutral for multiplication)
+
 ```for j = 1:5```                       % Loop from 1 to 5
-    ```fact = fact * j;```              % Multiply current fact with j
+
+```fact = fact * j;```              % Multiply current fact with j
+
 ```end```
+
 ```disp("The factorial is: " + fact)``` % Display the result
 
 **🧮 What Happens:**
@@ -85,10 +89,15 @@
 
 ## 🎯 While loop to print numbers from 1 to 10. -->whileloop.m
 ```number = 0;```               % Start from 0
+
 ```while (number < 10)```       % Keep looping while number is less than 10
-    ```number = number + 1;```  % Increment the number
-    ```disp(number)```          % Display current number
+
+```number = number + 1;```  % Increment the number
+    
+```disp(number)```          % Display current number
+    
 ```end```
+
 ![Screenshot (118)](https://github.com/user-attachments/assets/83cad13c-c14a-450f-8eec-fbaf5d6b0d01)
 
 
