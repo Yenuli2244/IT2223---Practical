@@ -23,6 +23,13 @@ You can also store these results in new variables:
 <pre>C = [5 4 1; 1 3 4; 7 8 9];
 </pre>
 
+## 💡 3. Matrix Functions
+- ```size(C)``` → returns the dimensions of matrix C → ```[3 3]```
+- ```numel(C)``` → total number of elements → ```9```
+- ```sum(C, 1)``` → sum of each column
+- ```sum(C, 2)``` → sum of each row
+- ```sum(sum(C))``` → total sum of all values → ```42```
+
 ## 01) Check whether the given number is negetive or positive. ---> first.m
 
 ![Screenshot (88)](https://github.com/user-attachments/assets/ec971ed8-3f66-4f56-972b-a732fbbc76ef)
