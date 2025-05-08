@@ -57,10 +57,15 @@
 
 ## 🎯 Sum of numbers from 1 to 10 using a for loop. --> ForLoop1.m
 ```sum = 0;```                   % Initialize sum to 0
+
 ```for i = 1:10```               % Loop from 1 to 10
+
     ```sum = sum + i;```         % Add current value of i to sum
+    
 ```end```
+
 ```disp("The sum is: " + sum)``` % Display the final sum
+
 ![Screenshot (119)](https://github.com/user-attachments/assets/aa31b9fb-6d3c-47f5-af18-cde4c7e628a6)
 
 ## 🎯 Factorial of 5 using a for loop. --> ForLoop2.m
