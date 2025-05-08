@@ -22,7 +22,8 @@
 
 | Method | Description |
 | -------- | -------- |
-| ```disp(...) + num2str``` | Simple text display, old-style |
+| ```disp(...)``` + ```num2str``` | Simple text display, old-style |
 | ```disp("..." + x)``` | Modern and cleaner syntax |
-
+| ```fprintf(...)``` | Formatted output (no newline unless added) |
+| ```sprintf(...)``` + ```disp``` | Store formatted string before displaying |
 
