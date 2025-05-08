@@ -15,6 +15,14 @@ You can also store these results in new variables:
 <pre>A = [1 2 3];
 </pre>
 
+- **Column vector:**
+<pre>B = [2; 3; 4];
+</pre>
+
+- **Matrix:**
+<pre>C = [5 4 1; 1 3 4; 7 8 9];
+</pre>
+
 ## 01) Check whether the given number is negetive or positive. ---> first.m
 
 ![Screenshot (88)](https://github.com/user-attachments/assets/ec971ed8-3f66-4f56-972b-a732fbbc76ef)
