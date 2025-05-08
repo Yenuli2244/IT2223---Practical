@@ -26,17 +26,16 @@ f = a - b;</pre>
 
 ## 💡 2. Vectors and Matrices
 - **Row vector:**
-<pre>A = [1 2 3];
-</pre>
-
+<pre>A = [1 2 3];</pre>
+![Screenshot (102)1](https://github.com/user-attachments/assets/a185f712-b86f-4f63-b325-cbc7f387ffa8)
 
 - **Column vector:**
-<pre>B = [2; 3; 4];
-</pre>
+<pre>B = [2; 3; 4];</pre>
+![Screenshot (102)2](https://github.com/user-attachments/assets/c3ddef3d-2409-4eda-81b2-89d7a24fdd2f)
 
 - **Matrix:**
-<pre>C = [5 4 1; 1 3 4; 7 8 9];
-</pre>
+<pre>C = [5 4 1; 1 3 4; 7 8 9];</pre>
+![Screenshot (102)](https://github.com/user-attachments/assets/4502c014-17ea-46ae-8e0a-d3d1c546e044)
 
 ## 💡 3. Matrix Functions
 - ```size(C)``` → returns the dimensions of matrix C → ```[3 3]```
