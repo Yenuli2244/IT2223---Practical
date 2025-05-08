@@ -1,6 +1,6 @@
 # 🛠 Command Line Statements in MATLAB ----> first.txt
 ## 💡 1. Variables and Arithmetic
-<pre>  a = 5
+<pre>a = 5
 b = 3 </pre>
 
 
