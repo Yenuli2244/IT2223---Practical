@@ -48,7 +48,7 @@ f = a - b;</pre>
 ![Screenshot (104)](https://github.com/user-attachments/assets/2521a0c1-2c5b-4f5a-98e8-ecaaf87ef5bc)
 
 ## 💡 4. Min and Max
-- ```min(C)`` → minimum of each column
+- ```min(C)``` → minimum of each column
 - ```min(min(C))``` → smallest value in the entire matrix
 - Same with ```max(C)``` and ```max(max(C))```
 ![Screenshot (105)](https://github.com/user-attachments/assets/9aa1c225-04f9-49a9-9c27-7b4ce22b7b0f)
