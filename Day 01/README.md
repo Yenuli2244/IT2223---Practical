@@ -7,13 +7,27 @@ These lines assign values to variables. Then, you perform operations:
 a * b    % Multiplies a and b → 15
 a / b    % Divides a by b → 1.6667
 a - b    % Subtracts b from a → 2 </pre>
+![Screenshot (92)](https://github.com/user-attachments/assets/f942c9d5-63dd-4b9b-a1da-905b2976a608)
+![Screenshot (93)](https://github.com/user-attachments/assets/900d2b84-1242-4566-ba7f-66074e4857f5)
+![Screenshot (94)](https://github.com/user-attachments/assets/8c388d99-d596-459e-93dd-5315380e73f7)
+![Screenshot (95)](https://github.com/user-attachments/assets/aca6d061-bec1-4e2d-b481-4f94ef6650b5)
+![Screenshot (96)](https://github.com/user-attachments/assets/73521832-ccf2-4aec-a18c-2a604e76cccb)
+
 We can also store these results in new variables:
-<pre>c = a + b;    % c is 8</pre>
+<pre>c = a + b;
+d = a * b;
+e = a / b;
+f = a - b;</pre>
+![Screenshot (97)](https://github.com/user-attachments/assets/2ba6ecb9-04d6-48bd-8040-46d6c9c76fa2)
+![Screenshot (98)](https://github.com/user-attachments/assets/3dac4f43-2613-4556-b762-b4f7b23de069)
+![Screenshot (99)](https://github.com/user-attachments/assets/739ddb67-57fd-4e42-b3b6-a93d8551ab72)
+![Screenshot (100)](https://github.com/user-attachments/assets/2c3fd09f-9835-4ca8-8aae-0f500c27933c)
 
 ## 💡 2. Vectors and Matrices
 - **Row vector:**
 <pre>A = [1 2 3];
 </pre>
+
 
 - **Column vector:**
 <pre>B = [2; 3; 4];
