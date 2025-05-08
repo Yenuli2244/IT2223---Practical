@@ -3,13 +3,14 @@
 <pre>a = 5
 b = 3 </pre>
 ![Screenshot (92)](https://github.com/user-attachments/assets/f942c9d5-63dd-4b9b-a1da-905b2976a608)
+![Screenshot (93)1](https://github.com/user-attachments/assets/ac12bd9e-1bd9-43b6-9cc8-b87fb4f9f489)
 
 These lines assign values to variables. Then, you perform operations:
 <pre>a + b    % Adds a and b → 8
 a * b    % Multiplies a and b → 15
 a / b    % Divides a by b → 1.6667
 a - b    % Subtracts b from a → 2 </pre>
-![Screenshot (93)](https://github.com/user-attachments/assets/900d2b84-1242-4566-ba7f-66074e4857f5)
+![Screenshot (93)](https://github.com/user-attachments/assets/956082e5-50d3-4d3f-aedd-94ce0c960d7e)
 ![Screenshot (94)](https://github.com/user-attachments/assets/8c388d99-d596-459e-93dd-5315380e73f7)
 ![Screenshot (95)](https://github.com/user-attachments/assets/aca6d061-bec1-4e2d-b481-4f94ef6650b5)
 ![Screenshot (96)](https://github.com/user-attachments/assets/73521832-ccf2-4aec-a18c-2a604e76cccb)
@@ -43,11 +44,16 @@ f = a - b;</pre>
 - ```sum(C, 1)``` → sum of each column
 - ```sum(C, 2)``` → sum of each row
 - ```sum(sum(C))``` → total sum of all values → ```42```
+![Screenshot (103)](https://github.com/user-attachments/assets/f74c8bf6-b1f5-4f8c-8322-393ded01f452)
+![Screenshot (104)](https://github.com/user-attachments/assets/2521a0c1-2c5b-4f5a-98e8-ecaaf87ef5bc)
 
 ## 💡 4. Min and Max
 - ```min(C)`` → minimum of each column
 - ```min(min(C))``` → smallest value in the entire matrix
 - Same with ```max(C)``` and ```max(max(C))```
+![Screenshot (105)](https://github.com/user-attachments/assets/9aa1c225-04f9-49a9-9c27-7b4ce22b7b0f)
+![Screenshot (106)1](https://github.com/user-attachments/assets/6fa6922d-9397-46af-9207-238646c8b0b6)
+
 
 ## 💡 5. Matrix Indexing
 We can extract parts of a matrix:
