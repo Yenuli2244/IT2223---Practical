@@ -71,7 +71,7 @@ upper(st1)
 
 # 📌 Get marks from the user and print the grade. --> Grades.m
 ## This MATLAB code takes a student's marks as input, displays them, and then prints the corresponding grade based on the value.
-  marks=input('Enter your marks: ');
+<pre>marks=input('Enter your marks: ');
 disp(['your marks are ',num2str(marks)]);
 
 if(marks>100 || marks<0)
@@ -88,7 +88,7 @@ elseif(marks>=50)
     disp('Your grade is D')
 else
     disp('Your grade is F')
-end  
+end</pre>
 
 
 
