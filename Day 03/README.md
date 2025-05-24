@@ -1,4 +1,4 @@
-# 📌 Various string functions for concatenation, comparison, searching, replacing, splitting, and case manipulation.
+# 📌 Various string functions for concatenation, comparison, searching, replacing, splitting, and case manipulation. --> stringFunc.m
 ## 🖇️ 1. String Concatenation with ```strcat```
 <pre>str1='apple'; 
 str2='banana'; 
@@ -69,8 +69,8 @@ upper(st1)
 ![Screenshot (304)](https://github.com/user-attachments/assets/ba581dcc-6210-4f0b-bcfb-e8075ed1e0c6)
 ![Screenshot (305)](https://github.com/user-attachments/assets/7221c558-8e9b-40e6-9987-3326552056b3)
 
-# 📌 Get marks from the user and print the grade
-
+# 📌 Get marks from the user and print the grade. --> Grades.m
+## This MATLAB code takes a student's marks as input, displays them, and then prints the corresponding grade based on the value. Here's a step-by-step explanation:
 
 
 
