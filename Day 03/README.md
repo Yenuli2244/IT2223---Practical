@@ -64,7 +64,7 @@ upper(st1)
 
 ## 🖇️ 10. Remove Whitespace with ```strtrim```
 <pre>strtrim(' hello world ')</pre>
-- Removes leading/trailing spaces → 'hello world'.
+- Removes leading/trailing spaces → ```'hello world'```.
 
 ![Screenshot (304)](https://github.com/user-attachments/assets/ba581dcc-6210-4f0b-bcfb-e8075ed1e0c6)
 ![Screenshot (305)](https://github.com/user-attachments/assets/7221c558-8e9b-40e6-9987-3326552056b3)
