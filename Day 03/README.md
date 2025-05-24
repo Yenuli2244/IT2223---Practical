@@ -69,6 +69,8 @@ upper(st1)
 ![Screenshot (304)](https://github.com/user-attachments/assets/ba581dcc-6210-4f0b-bcfb-e8075ed1e0c6)
 ![Screenshot (305)](https://github.com/user-attachments/assets/7221c558-8e9b-40e6-9987-3326552056b3)
 
+# 📌 Get marks from the user and print the grade
+
 
 
 
