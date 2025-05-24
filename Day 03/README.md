@@ -90,6 +90,45 @@ else
     disp('Your grade is F')
 end</pre>
 
+![Screenshot (301)](https://github.com/user-attachments/assets/394495ef-01be-40f6-acdc-dd3035bde0fb)
+
+
+# 📌 Find the Largest of three Numbers --> LargestNum.m
+## This MATLAB code takes three numbers as input from the user and determines the largest among them using conditional comparisons.
+<pre>num1 = input("Enter a number 1: ");
+num2 = input("Enter a number 2: ");
+num3 = input("Enter a number 3: ");
+max = 0;
+
+if(num1 > num2 && num1 > num3)
+    max = num1;
+elseif(num2 > num1 && num2 > num3)
+    max=num2;
+   
+elseif(num3 > num1 && num3 > num2)
+    max=num3;
+    
+end
+disp("The largest number is "+max);</pre>
+
+![Screenshot (302)](https://github.com/user-attachments/assets/cdeb64da-238e-472d-81ec-9251140004f5)
+
+# 📌 Vowel or Consonant Checker --> Letters.m
+## This MATLAB code takes a single letter as input from the user and checks whether it is a vowel or a consonant. It also validates that the input is a single alphabet character.
+<pre>char = input("Enter your letter: ",'s');
+disp("Your letter is: " +char)
+
+if(char < 0)
+    disp('Invalid')
+elseif(char == "a" || char == "e" || char == "i" || char == "o" || char == "u")
+    disp('Your letter is Vowel letter')
+else
+    disp('Your letter is not a vowel letter')
+end</pre>
+
+![Screenshot (303)](https://github.com/user-attachments/assets/9c649378-6f1d-4758-bd78-22be429c7945)
+
+
 
 
 
