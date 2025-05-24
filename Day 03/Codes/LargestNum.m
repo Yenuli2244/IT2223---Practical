@@ -1,4 +1,4 @@
-%Get 5 numbers from user and print the largest number
+%Get 3 numbers from user and print the largest number
 
 num1=input("Enter a number 1: ");
 num2=input("Enter a number 2: ");
