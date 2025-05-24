@@ -1,4 +1,4 @@
-# 📘 1. Student Grade and Marks Analyzer
+# 📘 1. Student Grade and Marks Analyzer --> Activity1.m
 
 This program allows input of marks for 5 students, calculates and displays their grades, and offers a simple menu to show a bar chart or the average mark.
 
@@ -17,7 +17,7 @@ This program allows input of marks for 5 students, calculates and displays their
 ![Activity_01(1)](https://github.com/user-attachments/assets/a6f16a8a-a2e5-44a7-ac47-71f49ff70b7d)
 ![Activity_01(2)](https://github.com/user-attachments/assets/78452c3d-be1d-4a22-bfed-fd5fe3994fb9)
 
-# 🏦 2. ATM Banking Simulation
+# 🏦 2. ATM Banking Simulation -->Activity2.m
 Simulates a basic ATM where users can deposit, withdraw, check balance, and exit.
 
 #### Features:
@@ -29,7 +29,7 @@ Simulates a basic ATM where users can deposit, withdraw, check balance, and exit
 ![Activity_02(1)](https://github.com/user-attachments/assets/f7ed9e46-938d-4218-862a-38865532fba9)
 ![Activity_02(2)](https://github.com/user-attachments/assets/079199cf-85ef-4a58-abb2-59b83cb6a7cf)
 
-# 🗳️ 3. Student Club Voting System with Visualizations
+# 🗳️ 3. Student Club Voting System with Visualizations -->Activity3.m
 Simulates an election where students vote for one of four candidates and view results using different chart types.
 
 #### Features:
