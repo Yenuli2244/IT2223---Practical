@@ -88,7 +88,7 @@ elseif(marks>=50)
     disp('Your grade is D')
 else
     disp('Your grade is F')
-end
+end  
 
 
 
