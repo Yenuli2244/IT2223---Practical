@@ -1,4 +1,4 @@
-# 📌 1. Binary Search on Sorted Array
+# 📌 1. Binary Search on Sorted Array -->BinarySearch.m
 #### Description:
 This script performs a binary search on a sorted array to find a target element efficiently by repeatedly dividing the search interval in half.
 
@@ -12,7 +12,7 @@ Modify the ```array``` and ```target``` variables to search for different values
 
 ![BinarySearch](https://github.com/user-attachments/assets/3ca15ec8-232e-4d87-bed7-6113eb570892)
 
-# 📌 2. Linear Search on Array
+# 📌 2. Linear Search on Array -->LinearSearch.m
 #### Description:
 This script performs a linear search by checking each element one-by-one to find a target value in the array.
 
@@ -53,7 +53,7 @@ Modify ```arr``` to use different arrays. This is useful to see how performance 
 
 ![TimeComplexity](https://github.com/user-attachments/assets/99315fe9-e63a-4161-9ff2-b1deb584e8f1)
 
-# 📌 Linear vs Binary Search --> LinearBinary.m
+# 📌 6. Linear vs Binary Search --> LinearBinary.m
 
 ### Description
 This script compares the performance of:
