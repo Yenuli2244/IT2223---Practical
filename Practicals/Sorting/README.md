@@ -9,7 +9,7 @@ Each algorithm sorts a predefined array and prints the result. These examples he
 
 ## Algorithms Implemented
 - ### 1. Bubble Sort
-**Logic:**
+   **Logic:**
 - Repeatedly compares adjacent elements.
 - Swaps them if they are in the wrong order.
 - Continues until the list is sorted.
