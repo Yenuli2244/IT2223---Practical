@@ -1,4 +1,4 @@
-# 📌 Sorting Algorithms in MATLAB
+![fact](https://github.com/user-attachments/assets/d8aef2b1-c1a6-42e2-ac9a-8226e464a3bb)# 📌 Sorting Algorithms in MATLAB
 ## Description
 This project demonstrates the implementation of three classic sorting algorithms in MATLAB:
 - Bubble Sort
@@ -42,51 +42,41 @@ This collection of MATLAB code includes basic user-defined functions and a scrip
 
 ## Files & Functionalities
 - ### 1. addNumbers(x, y)
-  - Inputs: Two numbers x and y
-  - Output: Their sum
+  - **Inputs:** Two numbers x and y
+  - **Output:** Their sum
 
-2. getPi()
-Output: Returns the approximate value of π (3.1416)
+![addNumbers](https://github.com/user-attachments/assets/ed818a49-e836-42a2-9db2-ea9112fdc494)
 
-3. greet(name)
-Input: A string name
-Output: Prints a greeting message
+- ### 2. getPi()
+  - **Output:** Returns the approximate value of π (3.1416)
 
-5. myFunction()
-Description: A simple function with no inputs or outputs
+![getPi](https://github.com/user-attachments/assets/d46290be-8347-4f24-827c-3db34eecba49)
 
+- ### 3. greet(name)
+  - **Input:** A string name
+  - **Output:** Prints a greeting message
 
-5. operations(a, b)
-Inputs: Two numbers a and b
+![greet](https://github.com/user-attachments/assets/c758b905-8e52-474d-bdba-9b01ee0ea985)
 
-Outputs: Returns three values – addition, subtraction, and multiplication
+- ### 4. myFunction()
+  - **Description:** A simple function with no inputs or outputs
 
-Usage:
+![myFunction](https://github.com/user-attachments/assets/7a143d8f-445b-444c-9046-d3a760826f5b)
 
-matlab
-Copy
-Edit
-[add, sub, mul] = operations(10, 3);
-6. Factorial Script (Using Loop)
-Description: Asks the user for a number and calculates its factorial using a loop
+- ### 5. operations(a, b)
+  - **Inputs:** Two numbers a and b
+  - **Outputs:** Returns three values – addition, subtraction, and multiplication
 
-Usage:
+![operations](https://github.com/user-attachments/assets/3c3008b6-db5d-42df-ad50-12ed090225ce)
 
-matlab
-Copy
-Edit
-% Run the script:
-Enter a number: 5
-The factorial is: 120
-7. factorial(n) – Recursive Function
-Input: An integer n
+- ### 6. Factorial Script (Using Loop)
+  - **Description:** Asks the user for a number and calculates its factorial using a loop
 
-Output: Returns n! using recursion
+![fact](https://github.com/user-attachments/assets/12e3aa1a-693c-4bbb-a0f8-dbd652a389bb)
 
-Usage:
+- ### 7. factorial(n) – Recursive Function
+  - **Input:** An integer n
+  - **Output:** Returns n! using recursion
 
-matlab
-Copy
-Edit
-f = factorial(5);  % f = 120
+![factorial](https://github.com/user-attachments/assets/3e749616-4b24-46d3-ad72-281364da18c4)
 
