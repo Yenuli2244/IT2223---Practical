@@ -15,14 +15,14 @@ Each algorithm sorts a predefined array and prints the result. These examples he
   - Continues until the list is sorted.
 
 - ### 2. Insertion Sort
-**Logic:**
-- Builds the sorted array one item at a time.
-- Inserts each element into its correct position relative to the already sorted part of the array.
+   **Logic:**
+  - Builds the sorted array one item at a time.
+  - Inserts each element into its correct position relative to the already sorted part of the array.
 
 
 - ### 3. Selection Sort
-**Logic:**
-- Repeatedly finds the minimum element from the unsorted part.
-- Places it at the beginning of the sorted part by swapping.
+   **Logic:**
+  - Repeatedly finds the minimum element from the unsorted part.
+  - Places it at the beginning of the sorted part by swapping.
 
 
