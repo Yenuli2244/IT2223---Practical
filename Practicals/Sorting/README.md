@@ -41,9 +41,9 @@ This collection of MATLAB code includes basic user-defined functions and a scrip
 - Displaying messages using ```disp()```
 
 ## Files & Functionalities
-1. addNumbers(x, y)
-Inputs: Two numbers x and y
-Output: Their sum
+- ### 1. addNumbers(x, y)
+  - Inputs: Two numbers x and y
+  - Output: Their sum
 
 2. getPi()
 Output: Returns the approximate value of π (3.1416)
