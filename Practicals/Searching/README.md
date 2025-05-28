@@ -1,4 +1,4 @@
-# 📌 1. Binary Search on Sorted Array -->BinarySearch.m
+# 📌 1. Binary Search on Sorted Array --> BinarySearch.m
 #### Description:
 This script performs a binary search on a sorted array to find a target element efficiently by repeatedly dividing the search interval in half.
 
@@ -12,7 +12,7 @@ Modify the ```array``` and ```target``` variables to search for different values
 
 ![BinarySearch](https://github.com/user-attachments/assets/3ca15ec8-232e-4d87-bed7-6113eb570892)
 
-# 📌 2. Linear Search on Array -->LinearSearch.m
+# 📌 2. Linear Search on Array --> LinearSearch.m
 #### Description:
 This script performs a linear search by checking each element one-by-one to find a target value in the array.
 
@@ -26,7 +26,7 @@ Modify ```arr``` and ```target``` to test different arrays and search targets.
 
 ![LinearSearch](https://github.com/user-attachments/assets/0c0d750e-f767-45f7-8df8-0e70a21bf93e)
 
-# 📌 3. Measuring Loop Execution Time (Simple Loop)
+# 📌 3. Measuring Loop Execution Time (Simple Loop) --> LSwithTC.m
 #### Description:
 This script demonstrates how to use ```tic``` and ```toc``` to measure the elapsed time it takes to execute a simple loop from 1 to ```n```.
 
@@ -40,7 +40,7 @@ Change the variable ```n``` to run loops with different iteration counts and mea
 ![LSwithTC_1](https://github.com/user-attachments/assets/4b3f39e2-19c6-464e-8ee7-a8b0b5808f62)
 ![LSwithTC_2](https://github.com/user-attachments/assets/f6927af7-d018-4d29-8ae3-9f2baf30ddb6)
 
-# 📌 4. Measuring Execution Time for Loop Over Array Elements
+# 📌 4. Measuring Execution Time for Loop Over Array Elements --> TimeComplexity.m
 #### Description:
 This script measures the time it takes to loop through an array and display each element using ```disp()```.
 
