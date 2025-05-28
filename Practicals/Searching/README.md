@@ -53,4 +53,17 @@ Modify ```arr``` to use different arrays. This is useful to see how performance 
 
 ![TimeComplexity](https://github.com/user-attachments/assets/99315fe9-e63a-4161-9ff2-b1deb584e8f1)
 
+# 📌 Linear vs Binary Search --> LinearBinary.m
+
+### Description
+This script compares the performance of:
+- **Linear Search**: Scans the array element-by-element.
+- **Binary Search**: Efficient search for sorted arrays by dividing the array into halves.
+
+### Key Concepts
+- **Linear Search** time complexity: `O(n)`
+- **Binary Search** time complexity: `O(log n)`
+- Demonstrates the use of `tic` and `toc` for timing
+
+![LinearBinary](https://github.com/user-attachments/assets/8bfc151e-04cb-4426-987f-de763599adea)
 
