@@ -1,4 +1,4 @@
-![fact](https://github.com/user-attachments/assets/d8aef2b1-c1a6-42e2-ac9a-8226e464a3bb)# 📌 Sorting Algorithms in MATLAB
+# 📌 Sorting Algorithms in MATLAB
 ## Description
 This project demonstrates the implementation of three classic sorting algorithms in MATLAB:
 - Bubble Sort
