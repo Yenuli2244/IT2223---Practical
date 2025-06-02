@@ -41,7 +41,7 @@ Each algorithm sorts a predefined array and prints the result. These examples he
 
 - ### 5. Quick Sort
    **Logic:**
- - Selects a pivot element and partitions the array into elements less than, equal to, and greater than the pivot.
- - Recursively applies the same logic to subarrays.
+  - Selects a pivot element and partitions the array into elements less than, equal to, and greater than the pivot.
+  - Recursively applies the same logic to subarrays.
 
 ![QuickSort](https://github.com/user-attachments/assets/1a3be68f-e401-4785-8929-dcbb5768f99a)
