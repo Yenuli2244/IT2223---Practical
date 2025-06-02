@@ -4,6 +4,8 @@ This project demonstrates the implementation of three classic sorting algorithms
 - Bubble Sort
 - Insertion Sort
 - Selection Sort
+- Merge Sort
+- Quick Sort
 
 Each algorithm sorts a predefined array and prints the result. These examples help understand how each sorting technique works internally.
 
@@ -29,3 +31,17 @@ Each algorithm sorts a predefined array and prints the result. These examples he
   - Places it at the beginning of the sorted part by swapping.
 
 ![SelectionSort](https://github.com/user-attachments/assets/f4200dc4-c058-405a-9572-231a9019bf51)
+
+- ### 4. Merge Sort
+   **Logic:**
+  - Recursively divides the array into halves until each subarray has one element.
+  - Merges sorted subarrays to produce new sorted arrays until the whole array is sorted.
+    
+![MergeSort](https://github.com/user-attachments/assets/2ee0623e-cbc5-40d7-90b0-18456ec6fbf5)
+
+- ### 5. Quick Sort
+   **Logic:**
+ - Selects a pivot element and partitions the array into elements less than, equal to, and greater than the pivot.
+ - Recursively applies the same logic to subarrays.
+
+![QuickSort](https://github.com/user-attachments/assets/1a3be68f-e401-4785-8929-dcbb5768f99a)
