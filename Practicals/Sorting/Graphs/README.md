@@ -49,7 +49,7 @@ Visualizes a complex digraph with edge weights.
 Uses ```'force'``` layout for clearer visualization of dense graphs.
 
 ## Notes
-- Use ```graph()``` for undirected graphs and ```digraph()``` for directed graphs.
+- Use ```graph()``` for **undirected graphs** and ```digraph()``` for **directed graphs**.
 - ```plot()``` is used for visual representation.
 - ```highlight()``` allows interactive emphasis on nodes/edges.
 - ```'Layout'```,```'force'``` improves node spacing and visualization in complex graphs.
