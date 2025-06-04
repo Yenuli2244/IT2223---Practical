@@ -48,11 +48,6 @@ Visualizes a complex digraph with edge weights.
 
 Uses ```'force'``` layout for clearer visualization of dense graphs.
 
-## Notes
-- Use ```graph()``` for **undirected graphs** and ```digraph()``` for **directed graphs**.
-- ```plot()``` is used for visual representation.
-- ```highlight()``` allows interactive emphasis on nodes/edges.
-- ```'Layout'```,```'force'``` improves node spacing and visualization in complex graphs.
-- RGB color triplets can be used to customize node colors.
-
+- **10. Graph Highlighting**
+![GraphPic](https://github.com/user-attachments/assets/eadbb063-536a-4b15-857d-1c98c378a104)
 
