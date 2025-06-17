@@ -18,7 +18,7 @@
 ## 🔹 3. Graph Operations (Import, Subgraph, Adjacency, Labels, Coloring, Shortest Path)
 
 **Description:**
-- Creates an undirected graph using graph().
+- Creates an undirected graph using ```graph()```.
 - Performs subgraph extraction, adjacency checks, node/edge labeling, coloring, and shortest path from node 1 to 5.
 
 ![Homework_1](https://github.com/user-attachments/assets/7c2b78e3-b880-4c3f-b6d5-5abd398f1bc4)
